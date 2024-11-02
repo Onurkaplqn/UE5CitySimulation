@@ -1,0 +1,8 @@
+2024/03/27-16:05:29.041 3be4 Reusing MANIFEST D:/UE5öğrenim/Traf_SessizYolcuları/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/27-16:05:29.151 3be4 Recovering log #21
+2024/03/27-16:05:29.151 3be4 Reusing old log D:/UE5öğrenim/Traf_SessizYolcuları/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000021.log 
+2024/03/27-16:07:10.456 5544 Level-0 table #25: started
+2024/03/27-16:07:10.456 5544 Level-0 table #25: 0 bytes OK
+2024/03/27-16:07:10.514 5544 Delete type=0 #21
+2024/03/27-16:07:10.549 5544 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/03/27-16:07:10.550 5544 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
